@@ -58,16 +58,11 @@
 
               Eso es todo con el proceso de instalación. Dado que una Raspberry Pi usa tarjetas SD para leer los sistemas operativos, puedes tener muchas tarjetas SD con                       diferentes sistemas operativos que puede intercambiar y usar en un abrir y cerrar de ojos.
               
+  ## Conclusiones
+     Aunque esta claro que no es una herramienta sin mucha potencia nos sirve para familiarizarnos con el entorno computacional a niveles basicos  pero muy completo a nivel 
+     formativo.    
               
    
-
-
-
-
-
-
-
-
 
 ### Referencias
 [Raspberry] (https://www.linuxenespañol.com/tutoriales/como-instalar-ubuntu-mate-en-raspberry-pi-4/)
