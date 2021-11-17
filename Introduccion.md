@@ -1,4 +1,6 @@
-  La Raspberry Pi apareció en febrero de 2012,  La primera unidad tenía 256 MB de ram y un procesador a 700 MHz, tenía el característico conector de 26 pines GPIO y salida de         video por HDMI o RCA además de un conector de 3.5mm para el audio, el primer modelo carecía de puerto ethernet.
+  La Raspberry Pi apareció en febrero de 2012,  La primera unidad tenía 256 MB de ram y un procesador a 700 MHz, tenía el característico conector de 26 pines GPIO y salida de        video por HDMI o RCA además de un conector de 3.5mm para el audio, el primer modelo carecía de puerto ethernet.
+  
+  ![](https://github.com/papuinoook94/Proyectos/blob/main/IMAGENES/raspberry.png)
 
    La fundación Raspberry Pi quería hacer llegar la informática a todos los usuarios, con esta sencilla y barata placa, pero suficiente para hacer las tareas más comunes de
    cualquier ordenador, la informática está al alcance de todos los usuarios e incluso bolsillos.El microordenador Raspberry Pi ha pasado por varias versiones de mejora, pero
