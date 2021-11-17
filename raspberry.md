@@ -8,14 +8,8 @@ teclado y ratón (aunque no siempre) donde conectarla para hacerla funcionar, pe
 cajas que hay para esta, la podremos llevar en un bolsillo o una mochila, junto con el adaptador de corriente necesario, y lista para conectarla en cualquier pantalla junto con un
 teclado y ratón.
 
-Otro de los usos comunes para una Raspberry Pi, incluso si es un modelo anterior al actual y ya la tienes un poco abandonada, es instalar el sistema operativo con centro
-multimedia Kodi para usarla como reproductor avanzado en tu televisor, aunque tu televisión sea una Smart TV, con Kodi tienes muchas más posibilidades gracias a las múltiples 
-opciones que nos ofrecen los Addons para este.
 
-Al igual que hay un sistema operativo especial para Kodi, también los hay, y varios, para simular una maquina recreativa de tipo arcade, gracias a sus múltiples conexiones USB y 
-el conector GPIO incluso se pueden conectar palancas analógicas igual que las antiguas, monitores CRT, altavoces mono y meterlo todo en una caja de aspecto similar, pero con la 
-posibilidad de incluir miles de juegos de todo tipo de máquinas y videoconsolas antiguas.
-El problema con el sistema operativo Raspberry  es que sigueN siendo un sistema operativo de 32 bits. Debido a que el entorno grafico GNOME en Ubuntu requiere de más 
+El problema con el sistema operativo Raspberry  es que siguen siendo un sistema operativo de 32 bits. Debido a que el entorno grafico GNOME en Ubuntu requiere de más 
 hardware, hemos decicido que MATE consume menos recursos de hardware. Aunque la variante de 4GB debería ser suficiente, el rendimiento es muy bajo si quieres ejecutar
 aplicaciones de escritorio.
 
