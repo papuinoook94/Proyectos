@@ -3,10 +3,7 @@
   ![](https://github.com/papuinoook94/Proyectos/blob/main/IMAGENES/raspberry.png)
 
    La fundación Raspberry Pi quería hacer llegar la informática a todos los usuarios, con esta sencilla y barata placa, pero suficiente para hacer las tareas más comunes de
-   cualquier ordenador, la informática está al alcance de todos los usuarios e incluso bolsillos.El microordenador Raspberry Pi ha pasado por varias versiones de mejora, pero
-   continua con su reducido precio de aproximadamente 35$, para funcionar utiliza un sistema operativo, Raspbian, basado en Linux y especial para aprovechar el hardware de este
-   microordenador. Además de Raspbian, multitud de sistemas han aparecido que hacen de la Raspberry Pi un microordenador para diferentes fines, centros multimedia, emuladores de
-   máquinas recreativas, etc.
+   cualquier ordenador, la informática está al alcance de todos los usuarios e incluso bolsillos. 
    
 1. Una tarjeta MicroSD rápida con adaptador SDHC / lector USB.
 2. Una máquina con Linux.
