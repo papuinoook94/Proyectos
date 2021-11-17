@@ -32,14 +32,14 @@
   
   ![](https://github.com/papuinoook94/Proyectos/blob/main/IMAGENES/raspberry1.png)
   
-  ### *7. Conexion , comprobacion y actualizacion*
+### *7. Conexion , comprobacion y actualizacion*
    Después de seleccionar la imagen, haz clic en el botón “Escribir” en el generador de imágenes. El proceso de actualización puede tardar entre 15 y 20 minutos o más, 
    dependiendo de la velocidad de tu tarjeta SD.
 
-   1.  **Insertar la tarjeta SD en tu Raspberry Pi 4**
-       Antes de encender el Pi, asegúrate de haber conectado el cable Micro HDMI al primer puerto micro HDMI y accesorios como teclado y mouse.
+1.  **Insertar la tarjeta SD en tu Raspberry Pi 4**
+        Antes de encender el Pi, asegúrate de haber conectado el cable Micro HDMI al primer puerto micro HDMI y accesorios como teclado y mouse.
 
-   2.  **Instalación de Ubuntu-mate**
+2.  **Instalación de Ubuntu-mate**
        Espera pacientemente hasta que veas la pantalla de presentación de MATE. Seguir los pasos de instalación es bastante sencillo. Todo lo que necesitas hacer es hacer              clic en siguiente, y el instalador hará todo por ti.
               
        Una vez realizada la instalación, enciende el terminal con la combinación de teclas Ctrl + Alt + T y escribe el siguiente comando.
