@@ -5,6 +5,8 @@
    La fundación Raspberry Pi quería hacer llegar la informática a todos los usuarios, con esta sencilla y barata placa, pero suficiente para hacer las tareas más comunes de
    cualquier ordenador, la informática está al alcance de todos los usuarios e incluso bolsillos. 
    
+   Necesitamos los siguientes requisitos:
+   
 1. Una tarjeta MicroSD rápida con adaptador SDHC / lector USB.
 2. Una máquina con Linux.
 3. Software Raspberry Pi Imager.
