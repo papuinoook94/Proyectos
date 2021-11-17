@@ -32,7 +32,7 @@
   
   ![](https://github.com/papuinoook94/Proyectos/blob/main/IMAGENES/raspberry1.png)
   
-### *7. Conexion , comprobacion y actualizacion*
+### *7. Conexión , comprobación y actualización*
    Después de seleccionar la imagen, haz clic en el botón “Escribir” en el generador de imágenes. El proceso de actualización puede tardar entre 15 y 20 minutos o más, 
    dependiendo de la velocidad de tu tarjeta SD.
 
