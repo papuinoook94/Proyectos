@@ -18,5 +18,4 @@ posibilidad de incluir miles de juegos de todo tipo de máquinas y videoconsolas
 El problema con el sistema operativo Raspberry  es que sigueN siendo un sistema operativo de 32 bits. Debido a que el entorno grafico GNOME en Ubuntu requiere de más 
 hardware, hemos decicido que MATE consume menos recursos de hardware. Aunque la variante de 4GB debería ser suficiente, el rendimiento es muy bajo si quieres ejecutar
 aplicaciones de escritorio.
-![](https://github.com/papuinoook94/Proyectos/blob/main/IMAGENES/Raspberry0.png)
-![](https://github.com/papuinoook94/Proyectos/blob/main/IMAGENES/raspberry1.png)
+
